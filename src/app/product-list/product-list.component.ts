@@ -17,6 +17,7 @@ export class ProductListComponent {
   onNotify(){
     window.alert(`You'll be notified`)
   }
+  
 }
 
 
